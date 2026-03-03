@@ -13,6 +13,7 @@ Preprocessing and Uses
 
 The raw data are provided unprocessed. During kernel fitting, the StandardScaler from sklearn was used to normalise the input features to give a mean of zero and a variance of one. Functions 5 and 7 were additionally subjected to a log transformation prior to the StandardScaler.
 The main use of this dataset is documenting the progress made during the course of the project. It may be used as a case study for the strategy adopted and examining how progress is typically made during black box optimisation processes: step-changes, plateaus and exploration vs exploitation. 
+
 Distribution and Maintenance
 
-The dataset is publically available
+The dataset is publically available on the alexllew/Capstone_Project_2025-2026 github page in the data folder as separated csv files for each function. The data are curated and maintained by Alex Llewelyn.
